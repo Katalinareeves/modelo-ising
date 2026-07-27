@@ -1,6 +1,6 @@
 # Modelo de Ising (1D y 2D) con algoritmo de Metropolis
 
-Proyecto para el curso Progra 2 (PCFI 261), Solemne II.
+Proyecto para el curso Modelos Computacionales para la Física y Astronomía (PCFI 261), Solemne II.
 
 Simulación del modelo de Ising mediante el algoritmo de Metropolis-Hastings:
 
